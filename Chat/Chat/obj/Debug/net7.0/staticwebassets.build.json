@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "aJKY52UebBVu5pA1nP32pZQzpe1n+I2bfBuRrjQkRfc=",
+  "Source": "Chat",
+  "BasePath": "_content/Chat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Chat\\wwwroot",
+      "Source": "Chat",
+      "ContentRoot": "C:\\Users\\troya\\Desktop\\Chat\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\troya\\Desktop\\Chat\\Chat\\wwwroot\\Index.html",
+      "SourceId": "Chat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\troya\\Desktop\\Chat\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    },
+    {
+      "Identity": "C:\\Users\\troya\\Desktop\\Chat\\Chat\\wwwroot\\js\\Chat.js",
+      "SourceId": "Chat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\troya\\Desktop\\Chat\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "RelativePath": "js/Chat.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Chat.js"
+    },
+    {
+      "Identity": "C:\\Users\\troya\\Desktop\\Chat\\Chat\\wwwroot\\Sonidos\\006150542_prev.mp3",
+      "SourceId": "Chat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\troya\\Desktop\\Chat\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "RelativePath": "Sonidos/006150542_prev.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Sonidos\\006150542_prev.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\troya\\Desktop\\Chat\\Chat\\wwwroot\\Sonidos\\bleepme.io - bleep sound 2.mp3",
+      "SourceId": "Chat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\troya\\Desktop\\Chat\\Chat\\wwwroot\\",
+      "BasePath": "_content/Chat",
+      "RelativePath": "Sonidos/bleepme.io - bleep sound 2.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Sonidos\\bleepme.io - bleep sound 2.mp3"
+    }
+  ]
+}
